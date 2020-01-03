@@ -12,3 +12,4 @@ public class NormalActivity extends AppCompatActivity {
         setContentView(R.layout.normal_layout);
     }
 }
+//ASDASDADSADASD
